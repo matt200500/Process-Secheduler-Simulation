@@ -3,7 +3,7 @@ Schedules processes using the round robin algorithm
 
 In this program implements a round-robin CPU scheduling simulator. The input to this
 simulator is a set of processes and a time slice. Each process will be described by an id, arrival time
-and CPU burst. Your simulator will simulate RR scheduling on these processes and for each process it
+and CPU burst.  This simulator simulates Round Robin scheduling on these processes and for each process it
 will calculate its start time and finish time.This simulation also computes a condensed execution
 sequence of all processes.
 
